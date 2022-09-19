@@ -3,8 +3,8 @@
 <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="60"> **About Me**<br>
 I'm a Computer System Engineering graduate, enthusiastic of embedded system, Arduino. <br>
 
-<img src="https://media.giphy.com/media/CiYeFidOaXGz8usbYN/giphy.gif" width="200"> <br>
-<img src="https://media.giphy.com/media/1GPXNIn2o6hYFDbLZo/giphy-downsized-large.gif" width="200"> <br>
+<img src="https://media.giphy.com/media/1GPXNIn2o6hYFDbLZo/giphy-downsized-large.gif" width="200"> <img src="https://media.giphy.com/media/CiYeFidOaXGz8usbYN/giphy.gif" width="200"> <br>
+
 
 
 
