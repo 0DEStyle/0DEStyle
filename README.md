@@ -9,7 +9,16 @@ I'm a Computer System Engineering graduate, enthusiastic of embedded system, Ard
 
 
 **Languages:** <br>
-C, C++, C#, Assembly(PIC16F877A), Java, HTML, CSS, JavaScript, Python, Batch, MATLAB and VHDL. <br>
+Completed projects with C, C++, C#, Assembly(PIC16F877A), Java, HTML, CSS, JavaScript, Python, Batch, MATLAB and VHDL. <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0DEStyle&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/0DEStyle/github-readme-stats)<br>
+
+
+**Old Projects:** <br>
+Image Processing: 
+To detect Red/White Blood Cell in a sample image <br>
+Convert RGB to Grayscale image<br>
+Image segmentation, Point/Line/Edge detection using MATLAB <br>
+Identify number of objects in an image then process<br>
 
 <img src="https://media.giphy.com/media/RVvyV1jUpOuQutCuux/giphy.gif" width="800"> <br>
 <!--
