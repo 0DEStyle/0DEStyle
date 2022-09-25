@@ -1,7 +1,9 @@
-## 👋 Hi There! Welcome To 0DEStyle's GitHub Page!
+### 👋 Hi There! Welcome To 0DEStyle's GitHub Page!
 
 <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="60"> **About Me**<br>
-I'm a Computer System Engineering graduate, enthusiastic of embedded system, Arduino. <br>
+I'm a Computer System Engineering BSc graduate in London, studied 2 years Software development in College.<br>
+I have expereience in developing client side webpage, desktop application(Windows Forms, ConsoleApp), Embedded System design(Arduino, PIC16F877A, ESP32, Mbed LPC1768), some experience in IOS mobile development, database(SQL).<br>
+
 
 <img src="https://media.giphy.com/media/1GPXNIn2o6hYFDbLZo/giphy-downsized-large.gif" width="200"> <img src="https://media.giphy.com/media/CiYeFidOaXGz8usbYN/giphy.gif" width="200"> <br>
 
