@@ -12,7 +12,7 @@ I have expereience in developing client side webpage, desktop application(Window
 
 **Languages:** <br>
 Completed projects with C, C++, C#, Assembly(PIC16F877A), Java, HTML, CSS, JavaScript, Python, Batch, MATLAB and VHDL. <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0DEStyle&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/0DEStyle/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0DEStyle&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/0DEStyle/github-readme-stats-sigma-five)<br>
 
 
 **Old Projects:** <br>
