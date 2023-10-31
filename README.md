@@ -15,6 +15,17 @@ Completed projects with C, C++, C#, Assembly(PIC16F877A), Java, HTML, CSS, JavaS
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0DEStyle&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/0DEStyle/github-readme-stats-sigma-five)<br>
 
 
+<div align="center"> 
+<img width="90%" height="90%" src="https://github.com/0DEStyle/Codewars-CSharp/blob/main/logo-codewars.png" hspace="20">
+  
+[![](https://www.codewars.com/users/0DE/badges/large)](https://www.codewars.com/users/0DE)
+</div>
+
+Started non-stop coding since August 9th 2022, solving at least 1 problem everyday on Codewars.<br>
+
+
+<img src="https://media.giphy.com/media/RVvyV1jUpOuQutCuux/giphy.gif" width="800"> <br>
+
 **Old Projects:** <br>
 Image Processing: 
 To detect Red/White Blood Cell in a sample image <br>
@@ -22,13 +33,6 @@ Convert RGB to Grayscale image<br>
 Image segmentation, Point/Line/Edge detection using MATLAB <br>
 Identify number of objects in an image then process<br>
 
-<img src="https://media.giphy.com/media/RVvyV1jUpOuQutCuux/giphy.gif" width="800"> <br>
-
-<div align="center"> 
-<img width="90%" height="90%" src="https://github.com/0DEStyle/Codewars-CSharp/blob/main/logo-codewars.png" hspace="20">
-  
-[![](https://www.codewars.com/users/0DE/badges/large)](https://www.codewars.com/users/0DE)
-</div>
 
 
 <!--
