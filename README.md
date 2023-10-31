@@ -23,6 +23,14 @@ Image segmentation, Point/Line/Edge detection using MATLAB <br>
 Identify number of objects in an image then process<br>
 
 <img src="https://media.giphy.com/media/RVvyV1jUpOuQutCuux/giphy.gif" width="800"> <br>
+
+<div align="center"> 
+<img width="90%" height="90%" src="https://github.com/0DEStyle/Codewars-CSharp/blob/main/logo-codewars.png" hspace="20">
+  
+[![](https://www.codewars.com/users/0DE/badges/large)](https://www.codewars.com/users/0DE)
+</div>
+
+
 <!--
 **0DEStyle/0DEStyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
