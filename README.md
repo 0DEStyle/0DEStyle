@@ -22,7 +22,7 @@ Completed projects with C, C++, C#, Assembly(PIC16F877A), Java, HTML, CSS, JavaS
 </div>
 
 Started non-stop coding since 9th August 2022, solving at least 1 problem everyday on Codewars primarily with C# and JavaScript.<br>
-Feel free to check my solutions on the Pinned Directories below. <br>
+Feel free to check my solutions for learning reference on the Pinned Directories below. <br>
 
 <img src="https://media.giphy.com/media/RVvyV1jUpOuQutCuux/giphy.gif" width="800"> <br>
 
