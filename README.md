@@ -35,7 +35,7 @@ Identify number of objects in an image then process<br>
 
 <a href="https://github.com/0DEStyle/TicTacToe_WinForms/tree/master">**TicTacToe made in WinForms**</a> <br>
 <img src="https://media.giphy.com/media/7tOfjoQ2MLS16MWrrV/giphy.gif" width="300"> <br>
-<a href="https://github.com/0DEStyle/TicTacToe_WinForms/tree/master">**C # ASCII art Pyramide d'Azkee**</a> <br>
+<a href="https://github.com/0DEStyle/C-Sharp-ASCII-Pyramide-dAzkee">**C # ASCII art Pyramide d'Azkee**</a> <br>
 <img width="90%" height="90%" src="https://github.com/0DEStyle/C-ASCII-Pyramide-dAzkee/blob/master/exampleN20.png" hspace="20"><br>
 
 
