@@ -21,8 +21,9 @@ Completed projects with C, C++, C#, Assembly(PIC16F877A), Java, HTML, CSS, JavaS
 [![](https://www.codewars.com/users/0DE/badges/large)](https://www.codewars.com/users/0DE)
 </div>
 
-Started non-stop coding since 9th August 2022, solving at least 1 problem everyday on Codewars primarily with C# and JavaScript.<br>
 Feel free to check my solutions for learning reference on the Pinned Directories below. <br>
+Started non-stop coding since 9th August 2022, solving at least 1 problem everyday on Codewars primarily with C# or JavaScript.<br>
+Started non-stop coding since 1st January 2024, solving at least 2 problems everyday on Codewars and LeetCode primarily with C# or JavaScript.<br>
 
 <img src="https://media.giphy.com/media/RVvyV1jUpOuQutCuux/giphy.gif" width="800"> <br>
 
