@@ -1,7 +1,7 @@
 ### 👋 Hi There!
 <div align="center"> 
 <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="60"> **About Me**<br>
-I'm a Computer System Engineering BSc graduate in London, studied 2 years Software development in College.<br>
+I'm a Computer System Engineering BSc graduate, studied 2 years Software development in College.<br>
 I have experience in developing client side webpage, desktop application(Windows Forms, ConsoleApp), Embedded System design(Arduino, PIC16F877A, ESP32, Mbed LPC1768), some experience in IOS mobile development, database(SQL).<br>
 
 
