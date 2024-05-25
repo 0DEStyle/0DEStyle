@@ -23,6 +23,7 @@ Completed projects with C, C++, C#, Assembly(PIC16F877A), Java, HTML, CSS, JavaS
 
 ⭐Started non-stop coding since **9th August 2022**, solving at least 1 problem everyday on Codewars primarily with C# or JavaScript.<br>
 ⭐Started non-stop coding since **1st January 2024**, solving at least 2 problems everyday on Codewars and LeetCode primarily with C# or JavaScript.<br>
+⭐Started non-stop coding since **24th May 2024**, solving at least 1 problem Codewars and 2 problems at LeetCode primarily with C# or JavaScript everyday.<br>
 ⭐**Date reached 1000th Katas: 4th March, 2024 (573 days)**<br />
 <img width="90%" height="90%" src="https://github.com/0DEStyle/Codewars-CSharp-1-8-Kyu/blob/main/images/codewars1000.png" hspace="20">
 
